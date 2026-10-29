@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Servis Takip PRO - yerel veriler ve çıktılar
+data/
+*.db
+*.db-wal
+*.db-shm
+*.eski
